@@ -2,7 +2,7 @@
 
 > :arrow_forward: Um projeto de formulário desenvolvido a partir do framework [Vue.js](https://vuejs.org/)
 
-<p align="center>
+<p align="center">
   <img src="/src/assets/projeto-view.png">
 </p>
 
