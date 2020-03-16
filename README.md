@@ -1,6 +1,7 @@
 # elogroup-desafio-tecnico
 
 > :arrow_forward: Um projeto de formulário desenvolvido a partir do framework [Vue.js](https://vuejs.org/)
+
 > Desenvolvido por: [Carlos Henrique da Costa Silva](https://www.linkedin.com/in/carlos-henrique-costa-silva/)
 
 <p align="center">
