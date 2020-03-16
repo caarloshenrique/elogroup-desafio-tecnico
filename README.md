@@ -29,7 +29,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 │   │   ├── logo.svg
 │   │   └── projeto-view.png
 │   ├── commons
-│   │   ├── components **(Componentes para construção de views)**
+│   │   ├── components (Componentes para construção de views)
 │   │   │   └── Footer.vue
 │   │   │   └── Navigation.vue
 │   │   │   └── ToolBar.vue
@@ -37,23 +37,23 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 │   │   │   └── action-types.js
 │   │   │   └── index.js
 │   │   │   └── mutation-types.js
-│   │   └── store **(Configuração de estado dos componentes | Vuex)**
+│   │   └── store (Configuração de estado dos componentes | Vuex)
 │   │       └── actions.js
 │   │       └── index.js
 │   │       └── mutations.js
 │   │       └── state.js
-│   ├── plugins **(Arquivos de configuração de plugins)**
+│   ├── plugins (Arquivos de configuração de plugins)
 │   │   └── index.js
 │   │   └── vee-validate.js
 │   │   └── vuetify.js
-│   ├── views **(Views do projeto)**
+│   ├── views (Views do projeto)
 │   │   ├── cadastro
-│   │   |   └── Cadastro.vue **(Tela de Cadastro com formulário)**
+│   │   |   └── Cadastro.vue (Tela de Cadastro com formulário)
 │   │   └── comun
-│   │       └── Form.vue **(Formulário de cadastro)**
-│   ├── App.vue **(Componente de inicialização Vue)**
-│   ├── main.js **(Arquivo de configuração de inicialização do projeto)**
-│   └── router.js **(Arquivo de configuraão de rotas)**
+│   │       └── Form.vue (Formulário de cadastro)
+│   ├── App.vue (Componente de inicialização Vue)
+│   ├── main.js (Arquivo de configuração de inicialização do projeto)
+│   └── router.js (Arquivo de configuraão de rotas)
 ├── .gitgnore
 ├── babel.config.js
 ├── package-lock.json
