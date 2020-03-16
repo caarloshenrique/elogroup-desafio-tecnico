@@ -10,9 +10,12 @@
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- _[VueJS](https://vuejs.org/)_ \* _[Vuex](https://vuex.vuejs.org/guide/)_ \* _[Vue Router](https://router.vuejs.org/)_ \* _[Vuetify](https://vuetifyjs.com/en/)_
-  - _[VeeValidate](https://logaretm.github.io/vee-validate/)_
-  - _[Vue-the-mask](https://vuejs-tips.github.io/vue-the-mask/)_
+* *[VueJS](https://vuejs.org/)*
+        * *[Vuex](https://vuex.vuejs.org/guide/)* 
+        * *[Vue Router](https://router.vuejs.org/)* 
+        * *[Vuetify](https://vuetifyjs.com/en/)*
+        * *[VeeValidate](https://logaretm.github.io/vee-validate/)*
+        * *[Vue-the-mask](https://vuejs-tips.github.io/vue-the-mask/)*
 
 ## Hierarquia de arquivos
 
