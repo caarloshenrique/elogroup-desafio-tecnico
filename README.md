@@ -19,7 +19,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   * [VeeValidate](https://logaretm.github.io/vee-validate/)
   * [Vue-the-mask](https://vuejs-tips.github.io/vue-the-mask/)
 
-## Hierarquia de arquivos
+## :open_file_folder: Hierarquia de arquivos
 
 ```
 ├── public
@@ -63,14 +63,14 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 └── README.md
 ```
 
-## Pré-requisitos
+## :clipboard: Pré-requisitos
 
 Para executar esta aplicação em seu dispositivo no modo de desenvolvimento você precisará ter as seguintes dependências devidamente instaladas e configuradas:
 
 - _<a href="https://nodejs.org/en/" target="_blank">NodeJS</a> (Preferencialmente em sua última versão LTS)_
 - _<a href="https://github.com/vuejs/vue-cli" target="_blank">vue-cli</a>_
 
-## Instalação e execução
+## :fire: Instalação e execução
 
 ```bash
 # install dependencies
