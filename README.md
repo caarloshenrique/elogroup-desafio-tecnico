@@ -67,8 +67,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Para executar esta aplicação em seu dispositivo no modo de desenvolvimento você precisará ter as seguintes dependências devidamente instaladas e configuradas:
 
-- _<a href="https://nodejs.org/en/" target="_blank">NodeJS</a> (Preferencialmente em sua última versão LTS)_
-- _<a href="https://github.com/vuejs/vue-cli" target="_blank">vue-cli</a>_
+- <a href="https://nodejs.org/en/" target="_blank">NodeJS</a> (Preferencialmente em sua última versão LTS)
+- <a href="https://github.com/vuejs/vue-cli" target="_blank">vue-cli</a>
 
 ## :fire: Instalação e execução
 
